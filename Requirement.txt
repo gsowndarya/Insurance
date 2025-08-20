@@ -1,0 +1,31 @@
+# Core
+pandas
+numpy
+scikit-learn
+
+# Visualization
+seaborn
+matplotlib
+plotly
+wordcloud
+
+# NLP
+nltk
+contractions
+transformers => MarianMT translation
+sentencepiece => MarianMT translation
+
+# Deep Learning
+tensorflow
+torch
+
+# ML Models & Tools
+xgboost
+lightgbm
+imblearn => SMOTE
+
+# Streamlit App Deployment
+streamlit
+
+# Utilities
+pickle5 => saving models
