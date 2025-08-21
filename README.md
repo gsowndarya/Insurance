@@ -16,8 +16,8 @@ This project builds an end-to-end AI-powered insurance system that combines mach
 It is deployed using Streamlit for interactive exploration and decision support.
 
 Tech Stack
-Languages: Python
-Libraries: scikit-learn, XGBoost, LightGBM, TensorFlow/Keras, NLTK, Seaborn, Matplotlib, WordCloud
+=> Languages: Python
+=> Libraries: scikit-learn, XGBoost, LightGBM, TensorFlow/Keras, NLTK, Seaborn, Matplotlib, WordCloud
 Deployment: Streamlit
 Data Handling: Pandas, NumPy
 Environment: Jupyter Notebook / Google Colab
